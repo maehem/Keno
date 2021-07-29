@@ -25,7 +25,11 @@ hs_err_pid*
 /Game/build/
 /Game/dist/
 .DS_Store
-Game/nbproject/genfiles.properties
-Game/nbproject/configs/JWS_generated.properties
-Themes/KittyKeno/trunk/nbproject/genfiles.properties
-Themes/SeaRay/trunk/nbproject/genfiles.properties
+genfiles.properties
+JWS_generated.properties
+/Themes/KittyKeno/nbproject/private/
+/Themes/SeaRay/nbproject/private/
+/Themes/SeaRay/build/
+/Themes/SeaRay/dist/
+/Themes/KittyKeno/dist/
+/Themes/KittyKeno/build/
