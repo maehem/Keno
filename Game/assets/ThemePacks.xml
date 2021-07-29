@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : ThemePackList.xml
+    Created on : October 15, 2009, 12:42 PM
+    Author     : mark
+    Description:
+        Manifest of available Keno themes.
+-->
+
+<root>
+    <theme>
+        <name>Kitty Keno</name>
+        <id>KittyKeno</id>
+        <description>
+            Cat theme and sounds for the Keno game.
+        </description>
+        <imageUrl>http://haruka/Keno/KenoTheme-KittyKeno-thumb.jpg</imageUrl>
+        <jarUrl>http://haruka/Keno/KenoTheme-KittyKeno.jar</jarUrl>
+        <dateChanged>2009/10/12</dateChanged>
+        <author>Joe Hacker</author>
+        <authorURL>http://maehem.com</authorURL>
+    </theme>
+    <theme>
+        <name>Sea Ray</name>
+        <id>SeaRay</id>
+        <description>
+            A sea ray from the Osaka, Japan aquarium.
+        </description>
+        <imageUrl>http://haruka/Keno/SeaRay-thumb.jpg</imageUrl>
+        <jarUrl>http://haruka/Keno/KenoTheme-SeaRay.jar</jarUrl>
+        <dateChanged>2009/10/17</dateChanged>
+        <author>Mark Koch</author>
+        <authorURL>http://maehem.com</authorURL>
+    </theme>
+    <theme>
+        <name>American Flag</name>
+        <id>AmericanFlag</id>
+        <description>
+            American patriotic theme.  Red, White Blue colors with the American flag.
+        </description>
+        <imageUrl>http://haruka/Keno/AmericanFlag-thumb.jpg</imageUrl>
+        <jarUrl>http://haruka/Keno/KenoTheme-AmericanFlag.jar</jarUrl>
+        <dateChanged>2009/10/16</dateChanged>
+        <author>Joe Hacker</author>
+        <authorURL>http://maehem.com</authorURL>
+    </theme>
+    <theme>
+        <name>Michael Jackson</name>
+        <id>MichaelJackson</id>
+        <description>
+            Tribute to the late king of Pop.
+        </description>
+        <imageUrl>http://haruka/Keno/MichaelJackson-thumb.jpg</imageUrl>
+        <jarUrl>http://haruka/Keno/KenoTheme-MichaelJackson.jar</jarUrl>
+        <dateChanged>2009/10/16</dateChanged>
+        <author>Joe Hacker</author>
+        <authorURL>http://maehem.com</authorURL>
+    </theme>
+    <theme>
+        <name>Obama</name>
+        <id>Obama</id>
+        <description>
+            The audacity of Keno.
+        </description>
+        <imageUrl>http://haruka/Keno/Obama-thumb.jpg</imageUrl>
+        <jarUrl>http://haruka/Keno/KenoTheme-Obama.jar</jarUrl>
+        <dateChanged>2009/10/16</dateChanged>
+        <author>Joe Hacker</author>
+        <authorURL>http://maehem.com</authorURL>
+    </theme>
+</root>

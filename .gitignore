@@ -21,3 +21,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/Game/nbproject/private/
+/Game/build/
+/Game/dist/
+.DS_Store
+Game/nbproject/genfiles.properties
+Game/nbproject/configs/JWS_generated.properties
+Themes/KittyKeno/trunk/nbproject/genfiles.properties
+Themes/SeaRay/trunk/nbproject/genfiles.properties

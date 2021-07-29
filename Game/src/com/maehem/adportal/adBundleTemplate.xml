@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : adBundleTemplate.xml
+    Created on : October 19, 2009, 3:06 PM
+    Author     : mark
+    Description:
+        Purpose of the document follows.
+-->
+
+<root>
+    <banner>
+        <name>Think Geek</name>
+        <linkURL>
+            http://www.kqzyfj.com/m4115xdmjdl046737A9021467449
+        </linkURL>
+        <imageURL>
+            http://www.lduhtrp.net/45103c37w1-LPRSOSVULNMPRSPPU
+        </imageURL>
+        <altText>
+            ThinkGeek - Cool Stuff for Geeks and Technophiles
+        </altText>
+    </banner>
+</root>
